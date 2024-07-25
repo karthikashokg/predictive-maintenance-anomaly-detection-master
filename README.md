@@ -200,6 +200,6 @@ If you find any resource missing or would like to be credited, please let us kno
 
 Thank you for being part of this journey!
 
-**Riddhi Sharma** - **Data Scientist**
+**karthik A G** - **Data Scientist**
 
 
